@@ -1,11 +1,11 @@
 """
-This script 'DLC_to_JAABA.m' is to convert DeepLabCut .csv data to JAABA .trk file.
+This script 'DLC_to_trk.m' is to convert DeepLabCut .csv data to APT .trk file.
 
 To_keep_in_mind
 _______________
 
 * For successful work requires 'source_file.trk' located in the same directory.
-* Creates 'trk_data' folder in the same as 'DLC_to_JAABA.m' directory.
+* Creates 'trk_data' folder in the same as 'DLC_to_trk.m' directory.
 """
 
 Warning:
